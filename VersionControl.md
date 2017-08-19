@@ -69,3 +69,10 @@ So, to repeat, I have a project that I have already been working on that I would
 
 `git log` - Take a look at the history of the commits you have made along with their specifc hashed IDs. You can use these IDs later to return your project to an earlier "checkpoint"
 
+### Advanced Resources
+[Resetting your working directory to an earlier commit](https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard)
+
+[Git Rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+[Rebase versus Merge](https://stackoverflow.com/questions/804115/when-do-you-use-git-rebase-instead-of-git-merge)
+
+[Git Fetch versus Pull](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
